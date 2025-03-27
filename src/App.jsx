@@ -9,7 +9,8 @@ import Footer from "./components/Footer";
 import Login from "./components/Login";
 import { AppContext } from "./context/AppContext";
 import { ToastContainer, toast } from "react-toastify";
-import Loader from "./loader";
+import Loader from "./Loader";
+
 
 
 
